@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# 忽略 IntelliJ IDEA 的项目配置文件
+.idea/
+*.iml
+out/
+gen/

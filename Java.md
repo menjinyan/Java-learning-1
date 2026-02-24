@@ -20,4 +20,7 @@
 ![img.png](document.image/HashMap的特点.png)  
 **HashMap的底层原理**  
 **HashMap小结**  
-![img.png](document.image/HashMap小结.png)
+![img.png](document.image/HashMap小结.png)  
+
+**LinkedHashMap**  
+![img.png](document.image/LinkedHashMap.png)
