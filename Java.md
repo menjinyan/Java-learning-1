@@ -39,4 +39,4 @@
 * 创建集合时传递Comparator 比较器对象，指定比较规则  
 ****  
 ## 可变参数  
-![img.png](img.png)
+![img.png](document.image/可变参数.png)
