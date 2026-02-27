@@ -39,4 +39,9 @@
 * 创建集合时传递Comparator 比较器对象，指定比较规则  
 ****  
 ## 可变参数  
-![img.png](document.image/可变参数.png)
+![img.png](document.image/可变参数.png)  
+****  
+## Collections  
+![img.png](document.image/Collections.png)  
+**Collections常用的API**  
+![img.png](document.image/Collections常用的API.png)
