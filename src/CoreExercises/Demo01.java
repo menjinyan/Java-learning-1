@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Random;
 
 public class Demo01 {
-    static void main() {
+    public static void main(String[] args) {
         /**
          * 班里有N个学生，学生属性:姓名，年龄，性别
          *
