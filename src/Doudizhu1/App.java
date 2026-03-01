@@ -1,4 +1,4 @@
-package Small_Project;
+package Doudizhu1;
 
 public class App {
     public static void main(String[] args) {

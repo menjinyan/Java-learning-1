@@ -1,4 +1,4 @@
-package Small_Project;
+package Doudizhu1;
 
 import java.util.ArrayList;
 import java.util.Collections;
