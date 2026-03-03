@@ -44,4 +44,14 @@
 ## Collections  
 ![img.png](document.image/Collections.png)  
 **Collections常用的API**  
-![img.png](document.image/Collections常用的API.png)
+![img.png](document.image/Collections常用的API.png)  
+****  
+## 不可变集合
+### 创建不可变集合  
+*不可变集合:不可以被修改的集合*  
+### 不可变集合的应用场景  
+*如果某个数据不能被修改，把它防御性的拷贝到不可变集合中是个很好的实践*  
+*或者集合对象被不可信的库调用时，不可变形式是安全的*  
+*简单理解:不想让别人修改集合里的内容*  
+## 创建不可变集合的书写格式  
+![img.png](创建不可变集合的书写格式%20.png)
