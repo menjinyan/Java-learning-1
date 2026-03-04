@@ -56,4 +56,14 @@
 ## 创建不可变集合的书写格式  
 ![img.png](创建不可变集合的书写格式%20.png)  
 ### 不可变集合的特点  
-![img.png](document.image/不可变集合的特点.png)
+![img.png](document.image/不可变集合的特点.png)  
+****  
+## Stream流  
+### Stream流的思想  
+![img.png](document.image/Stream流的思想.png)  
+### Stream流的作用  
+*结合了Lambda表达式，简化集合，数组操作*  
+### Stream流的使用步骤  
+![img.png](document.image/Stream流的使用步骤.png)  
+*Stream流的使用步骤第一步*  
+![img.png](document.image/Stream流的使用步骤第一步.png)
