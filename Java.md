@@ -66,4 +66,8 @@
 ### Stream流的使用步骤  
 ![img.png](document.image/Stream流的使用步骤.png)  
 *Stream流的使用步骤第一步*  
-![img.png](document.image/Stream流的使用步骤第一步.png)
+![img.png](document.image/Stream流的使用步骤第一步.png)  
+**注意**  
+Stream 接口中静态方法 of 的细节  
+方法的形参是一个可变参数，可以传递一堆零散的数据，也可以传递数组  
+但是数组必须是引用数据类型的，如果传递基本数据类型，是会把整个数组当做一个元素，放到 Stream 当中。
