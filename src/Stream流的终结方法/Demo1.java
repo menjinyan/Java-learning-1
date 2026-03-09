@@ -1,12 +1,10 @@
-package Stream流;
+package Stream流的终结方法;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.function.Consumer;
-import java.util.function.IntFunction;
 
-public class Demo10 {
+public class Demo1 {
     public static void main(String[] args) {
         /**
          * void forEach(Consumer action)    遍历
@@ -42,7 +40,7 @@ public class Demo10 {
 
 
         //toArray()                       收集流中的数据，放到数组中
-       //Object[] array = list.stream().toArray();
+        //Object[] array = list.stream().toArray();
         //System.out.println(Arrays.toString(array));
 
         /**
@@ -70,4 +68,5 @@ public class Demo10 {
 
         System.out.println(Arrays.toString(arr2));
     }
-}
+    }
+
