@@ -74,4 +74,6 @@ Stream 接口中静态方法 of 的细节
 #### Stream流的中间方法  
 ![img.png](document.image/Stream流的中间方法.png)  
 #### Stream流的终结方法  
-![img.png](document.image/Stream流的终结方法.png)
+![img.png](document.image/Stream流的终结方法.png)  
+#### Stream流总结  
+![img.png](document.image/Stream流总结mg.png)
