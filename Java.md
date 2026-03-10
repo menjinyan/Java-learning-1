@@ -97,4 +97,14 @@ Stream 接口中静态方法 of 的细节
 **方法引用总结**  
 ![img.png](document.image/方法引用总结.png)  
 **方法引用有哪几种**  
-![img.png](document.image/方法引用有哪几种.png)
+![img.png](document.image/方法引用有哪几种.png)  
+****  
+## 异常  
+### Error  
+![img.png](document.image/Error.png)  
+### Exception  
+![img.png](document.image/Exception.png)  
+### 异常小结  
+![img.png](异常小结%20.png)  
+### 运行时异常和编译时异常的区别  
+![img.png](document.image/运行时异常和编译时异常的区别.png)
