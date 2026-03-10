@@ -85,4 +85,6 @@ Stream 接口中静态方法 of 的细节
 #### 方法引用的分类  
 ![img.png](document.image/方法引用的分类.png)  
 **引用静态方法**  
-![img.png](document.image/引用静态方法.png)
+![img.png](document.image/引用静态方法.png)  
+**引用成员方法**  
+![img.png](document.image/引用成员方法.png)
