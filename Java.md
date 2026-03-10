@@ -113,4 +113,9 @@ Stream 接口中静态方法 of 的细节
 ### 异常的处理方式  
 ![img.png](document.image/异常的处理方式.png)  
 **JVM默认的处理方式**  
-![img.png](document.image/JVM默认的处理方式.png)
+![img.png](document.image/JVM默认的处理方式.png)  
+### 自己处理(捕获异常)  
+**格式**  
+![img.png](document.image/自己捕获异常的格式.png)  
+**目的**  
+当代码出现异常时，可以让程序继续执行下去
