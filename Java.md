@@ -109,4 +109,8 @@ Stream 接口中静态方法 of 的细节
 ### 运行时异常和编译时异常的区别  
 ![img.png](document.image/运行时异常和编译时异常的区别.png)  
 ### 异常的作用  
-![img.png](document.image/异常的作用.png)
+![img.png](document.image/异常的作用.png)  
+### 异常的处理方式  
+![img.png](document.image/异常的处理方式.png)  
+**JVM默认的处理方式**  
+![img.png](document.image/JVM默认的处理方式.png)
