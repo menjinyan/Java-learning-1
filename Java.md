@@ -122,4 +122,8 @@ Stream 接口中静态方法 of 的细节
 ### 自己处理(灵魂四问)  
 ![img.png](document.image/自己处理(灵魂四问).png)  
 ### Throwable成员方法  
-![img.png](document.image/Throwable成员方法.png)
+![img.png](document.image/Throwable成员方法.png)  
+### 抛出处理  
+![img.png](document.image/抛出处理.png)  
+### 异常的三种处理方式  
+![img.png](document.image/异常的三种处理方式.png)
