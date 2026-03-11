@@ -128,4 +128,12 @@ Stream 接口中静态方法 of 的细节
 ### 异常的三种处理方式  
 ![img.png](document.image/异常的三种处理方式.png)  
 ### 自定义异常  
-![img.png](自定义异常%20.png)
+![img.png](自定义异常%20.png)  
+****
+## File  
+**file对象就表示一个路径，可以是文件的路径，也可以是文件夹的路径**
+**这个路径可以是存在的，也允许是不存在的**  
+### File创建对象的方法  
+![img.png](document.image/File创建对象的方法.png)  
+### File方法的小结  
+![img.png](document.image/File方法的小结.png)
