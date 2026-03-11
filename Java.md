@@ -126,4 +126,6 @@ Stream 接口中静态方法 of 的细节
 ### 抛出处理  
 ![img.png](document.image/抛出处理.png)  
 ### 异常的三种处理方式  
-![img.png](document.image/异常的三种处理方式.png)
+![img.png](document.image/异常的三种处理方式.png)  
+### 自定义异常  
+![img.png](自定义异常%20.png)
