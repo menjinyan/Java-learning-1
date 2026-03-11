@@ -136,4 +136,10 @@ Stream 接口中静态方法 of 的细节
 ### File创建对象的方法  
 ![img.png](document.image/File创建对象的方法.png)  
 ### File方法的小结  
-![img.png](document.image/File方法的小结.png)
+![img.png](document.image/File方法的小结.png)  
+### File常见的成员判断方法(判断、获取)  
+![img.png](File常见的成员判断方法(判断、获取).png)  
+### File常见的成员判断方法(创建，删除)  
+![img.png](File常见的成员判断方法(创建，删除).png)  
+### File常见的成员判断方法(获取并遍历)  
+![img.png](document.image/File常见的成员判断方法(获取并遍历).png)
