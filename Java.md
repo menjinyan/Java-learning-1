@@ -142,4 +142,13 @@ Stream 接口中静态方法 of 的细节
 ### File常见的成员判断方法(创建，删除)  
 ![img.png](File常见的成员判断方法(创建，删除).png)  
 ### File常见的成员判断方法(获取并遍历)  
-![img.png](document.image/File常见的成员判断方法(获取并遍历).png)
+![img.png](document.image/File常见的成员判断方法(获取并遍历).png)  
+****  
+## IO流  
+![img.png](document.image/IO流.png)  
+### IO流的分类  
+![img.png](document.image/IO流的分类.png)  
+**纯文本文件**  
+![img.png](document.image/纯文本文件.png)  
+### IO流小结  
+![img.png](document.image/IO流小结.png)
