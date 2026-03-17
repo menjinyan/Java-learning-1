@@ -165,4 +165,6 @@ Stream 接口中静态方法 of 的细节
 ###  FileOutputStream写数据的两个小问题  
 ![img.png](document.image/FileOutputStream写数据的两个小问题.png)  
 ###  FileOutputStream小结  
-![img.png](document.image/FileOutputStream小结.png)
+![img.png](document.image/FileOutputStream小结.png)  
+### FileInputStream  
+![img.png](document.image/FileInputStream.png)
