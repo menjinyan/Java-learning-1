@@ -161,4 +161,8 @@ Stream 接口中静态方法 of 的细节
 ### FileOutputStream书写细节  
 ![img.png](document.image/FileOutputStream书写细节.png)  
 ### FileOutputStream写数据的3钟方式  
-![img.png](document.image/FileOutputStream写数据的3钟方式.png)
+![img.png](document.image/FileOutputStream写数据的3钟方式.png)  
+###  FileOutputStream写数据的两个小问题  
+![img.png](document.image/FileOutputStream写数据的两个小问题.png)  
+###  FileOutputStream小结  
+![img.png](document.image/FileOutputStream小结.png)
