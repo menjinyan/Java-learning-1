@@ -175,4 +175,7 @@ Stream 接口中静态方法 of 的细节
 ### FileInputStream读取的问题  
 ![img.png](document.image/FileInputStream读取的问题.png)  
 ### FileInputStream一次读取多个字节  
-![img.png](document.image/FileInputStream一次读取多个字节.png)
+![img.png](document.image/FileInputStream一次读取多个字节.png)  
+****  
+## Java中的编码和解码  
+![img.png](document.image/Java中的编码和解码.png)
