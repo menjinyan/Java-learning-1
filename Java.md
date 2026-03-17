@@ -171,4 +171,8 @@ Stream 接口中静态方法 of 的细节
 ### FileInputStream书写细节  
 ![img.png](document.image/FileInputStream书写细节.png)  
 ### FileInputStream循环读取  
-![img.png](document.image/FileInputStream循环读取.png)
+![img.png](document.image/FileInputStream循环读取.png)  
+### FileInputStream读取的问题  
+![img.png](document.image/FileInputStream读取的问题.png)  
+### FileInputStream一次读取多个字节  
+![img.png](document.image/FileInputStream一次读取多个字节.png)
