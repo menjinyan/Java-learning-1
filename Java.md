@@ -151,4 +151,10 @@ Stream 接口中静态方法 of 的细节
 **纯文本文件**  
 ![img.png](document.image/纯文本文件.png)  
 ### IO流小结  
-![img.png](document.image/IO流小结.png)
+![img.png](document.image/IO流小结.png)  
+### IO流体系  
+![img.png](document.image/IO流体系.png)  
+### 字节流  
+![img.png](document.image/字节流.png)  
+### FileOutputStream  
+![img.png](document.image/FileOutputStream.png)
