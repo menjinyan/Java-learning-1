@@ -157,4 +157,6 @@ Stream 接口中静态方法 of 的细节
 ### 字节流  
 ![img.png](document.image/字节流.png)  
 ### FileOutputStream  
-![img.png](document.image/FileOutputStream.png)
+![img.png](document.image/FileOutputStream.png)  
+### FileOutputStream书写细节  
+![img.png](document.image/FileOutputStream书写细节.png)

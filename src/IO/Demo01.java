@@ -18,8 +18,10 @@ public class Demo01 {
         //直接在当前目录创建文件
         FileOutputStream fos=new FileOutputStream("a.txt");
 
+        //写出数据
         fos.write("65".getBytes());
 
+        //释放资源
         fos.close();
 
     }
