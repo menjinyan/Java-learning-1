@@ -229,4 +229,10 @@ Stream 接口中静态方法 of 的细节
 ### 字节打印流  
 ![img.png](document.image/字节打印流.png)  
 ### 字节打印流的成员方法  
-![img.png](document.image/字节打印流的成员方法.png)
+![img.png](document.image/字节打印流的成员方法.png)  
+### 字符打印流  
+![img.png](字符打印流%20.png)  
+### 字符打印流的成员方法  
+![img.png](document.image/字符打印流的成员方法.png)  
+### 打印流的总结  
+![img.png](document.image/打印流的总结.png)
