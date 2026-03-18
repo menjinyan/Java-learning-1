@@ -213,3 +213,9 @@ Stream 接口中静态方法 of 的细节
 ![img.png](document.image/转换流小结.png)  
 ****  
 ## 序列化流  
+**可以把Java中的对象写到本地文件当中**  
+**也叫做对象操作输出流**  
+### 序列化流的构造方法以及成员方法  
+![img.png](document.image/序列化流的构造方法以及成员方法.png)  
+### 序列化流的小细节  
+![img.png](document.image/序列化流的小细节.png)
