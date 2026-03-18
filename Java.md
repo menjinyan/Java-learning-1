@@ -185,4 +185,10 @@ Stream 接口中静态方法 of 的细节
 ### 字符流  
 ![img.png](document.image/字符流.png)  
 ### FileReader  
-![img.png](document.image/FileReader.png)
+![img.png](document.image/FileReader.png)  
+### FileReader构造方法  
+![img.png](document.image/FileReader构造方法.png)  
+### FileReader成员方法  
+![img.png](document.image/FileReader成员方法.png)  
+### FileReader书写细节  
+![img.png](document.image/FileReader书写细节.png)
