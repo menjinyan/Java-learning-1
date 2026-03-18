@@ -222,4 +222,11 @@ Stream 接口中静态方法 of 的细节
 ## 反序列化流  
 ![img.png](document.image/反序列化流.png)  
 ### 序列化流/反序列化流的细节汇总  
-![img.png](序列化流反序列化流的细节汇总%20.png)
+![img.png](序列化流反序列化流的细节汇总%20.png)  
+****  
+## 打印流  
+![img.png](document.image/打印流.png)  
+### 字节打印流  
+![img.png](document.image/字节打印流.png)  
+### 字节打印流的成员方法  
+![img.png](document.image/字节打印流的成员方法.png)
