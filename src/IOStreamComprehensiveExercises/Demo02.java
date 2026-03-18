@@ -16,7 +16,7 @@ public class Demo02 {
          */
 
         //1、创建对象关联原始文件
-        FileInputStream fis=new FileInputStream("D:\\Github\\Java-learning-1\\src\\girl.jpg");
+        FileInputStream fis=new FileInputStream("D:\\Github\\Java-learning-1\\src\\dog.jpg");
         FileOutputStream fos=new FileOutputStream("D:\\Github\\Java-learning-1\\redu.jpg");
 
         int b;
