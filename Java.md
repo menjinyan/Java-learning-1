@@ -193,4 +193,9 @@ Stream 接口中静态方法 of 的细节
 ### FileReader书写细节  
 ![img.png](document.image/FileReader书写细节.png)  
 ###  字节流和字符流的使用场景  
-![img.png](document.image/字节流和字符流的使用场景.png)
+![img.png](document.image/字节流和字符流的使用场景.png)  
+****
+## 字节缓冲流  
+![img.png](document.image/字节缓冲流.png)  
+### 字节缓冲流的方法  
+![img.png](document.image/字节缓冲流的方法.png)
