@@ -218,4 +218,6 @@ Stream 接口中静态方法 of 的细节
 ### 序列化流的构造方法以及成员方法  
 ![img.png](document.image/序列化流的构造方法以及成员方法.png)  
 ### 序列化流的小细节  
-![img.png](document.image/序列化流的小细节.png)
+![img.png](document.image/序列化流的小细节.png)  
+## 反序列化流  
+![img.png](document.image/反序列化流.png)
