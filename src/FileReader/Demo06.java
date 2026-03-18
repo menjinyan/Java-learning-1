@@ -1,0 +1,29 @@
+package FileReader;
+
+import java.io.*;
+
+public class Demo06 {
+    public static void main(String[] args) throws IOException {
+        /**
+         *需求：
+         * 利用字节缓冲流拷贝文件
+         * 字节缓冲输入流的构造方法：
+         * public BufferedInputStream(InputStream is)
+         * 字节缓冲输出流的构造方法：
+         * public BufferedoutputStream(OutputStream os)
+         */
+
+        //1、创建缓冲流的对象
+        BufferedInputStream bis=new BufferedInputStream(new FileInputStream("a.txt"));
+        BufferedOutputStream bos=new BufferedOutputStream(new FileOutputStream("copy2.txt"));
+
+        //2、拷贝（一次性读写多个字节）
+        byte[] bytes=new byte[1024];
+        int len;
+        while ((len = bis.read(bytes)) != -1) {
+            bos.write(bytes, 0, len);
+        }
+        bos.close();
+        bis.close();
+    }
+}
