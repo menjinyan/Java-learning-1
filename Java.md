@@ -206,4 +206,6 @@ Stream 接口中静态方法 of 的细节
 ### 字符缓冲流特有的方法  
 ![img.png](document.image/字符缓冲流特有的方法.png)  
 ### 缓冲流小结  
-![img.png](document.image/缓冲流小结.png)
+![img.png](document.image/缓冲流小结.png)  
+### 转换流  
+![img.png](document.image/转换流.png)
