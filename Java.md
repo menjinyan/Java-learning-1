@@ -235,4 +235,17 @@ Stream 接口中静态方法 of 的细节
 ### 字符打印流的成员方法  
 ![img.png](document.image/字符打印流的成员方法.png)  
 ### 打印流的总结  
-![img.png](document.image/打印流的总结.png)
+![img.png](document.image/打印流的总结.png)  
+****  
+## 解压缩流/压缩流  
+### 解压缩流  
+![img.png](解压缩流%20.png)  
+****  
+## Commons-io  
+![img.png](document.image/Commons-io.png)  
+### Commons-io的使用步骤  
+![img.png](document.image/Commons-io的使用步骤.png)  
+### Commons-io常见方法  
+![img.png](Commons-io常见方法%20.png)  
+### Commons-io流相关的方法  
+![img.png](document.image/Commons-io流相关的方法.png)
