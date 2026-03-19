@@ -30,13 +30,13 @@ public class Demo01 {
 
 
         //3、通过正则表达式
-      ArrayList<String> familyNamesTempList= getDate(familyNamesstr,".{4}(,|。)");
+      ArrayList<String> familyNamesTempList= getDate(familyNamesstr,".{4}(,|。)",2);
 
 
 
     }
 
-    private static ArrayList<String> getDate(String familyNamesstr, String regex) {
+    private static ArrayList<String> getDate(String familyNamesstr, String regex,int index) {
 
         //1、创建集合存放数据
         ArrayList<String> list=new ArrayList<>();
@@ -45,7 +45,7 @@ public class Demo01 {
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(familyNamesstr);
         while (matcher.find()) {
-            String group = matcher.group();
+            String group = matcher.group(index);
             System.out.println(group);
         }
         return list;
