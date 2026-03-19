@@ -248,4 +248,9 @@ Stream 接口中静态方法 of 的细节
 ### Commons-io常见方法  
 ![img.png](Commons-io常见方法%20.png)  
 ### Commons-io流相关的方法  
-![img.png](document.image/Commons-io流相关的方法.png)
+![img.png](document.image/Commons-io流相关的方法.png)  
+****  
+## Hutool  
+### Huttol工具包  
+![img.png](document.image/Huttol工具包.png)
+
