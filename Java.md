@@ -252,5 +252,8 @@ Stream 接口中静态方法 of 的细节
 ****  
 ## Hutool  
 ### Huttol工具包  
-![img.png](document.image/Huttol工具包.png)
-
+![img.png](document.image/Huttol工具包.png)  
+****  
+## 配置文件  
+![img.png](document.image/配置文件.png)  
+### properties配置文件  
