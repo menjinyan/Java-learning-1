@@ -263,4 +263,6 @@ Stream 接口中静态方法 of 的细节
 **线程是操作系统能够进行运算调度最小的单位，它被包含在进程之中，是进程中实际的运作单位**  
 *简单理解:应用软件中互相独立，可以同时运行的功能*  
 ### 多线程小结  
-![img.png](document.image/多线程小结.png)
+![img.png](document.image/多线程小结.png)  
+### 并发和并行  
+![img.png](document.image/并发和并行.png)
