@@ -265,4 +265,6 @@ Stream 接口中静态方法 of 的细节
 ### 多线程小结  
 ![img.png](document.image/多线程小结.png)  
 ### 并发和并行  
-![img.png](document.image/并发和并行.png)
+![img.png](document.image/并发和并行.png)  
+### 多线程的实现方式  
+![img.png](document.image/多线程的实现方式.png)
