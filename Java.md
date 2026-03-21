@@ -269,4 +269,5 @@ Stream 接口中静态方法 of 的细节
 ### 多线程的实现方式  
 ![img.png](document.image/多线程的实现方式.png)  
 ### 多线程三种方式对比  
-![img.png](document.image/多线程三种方式对比.png)
+![img.png](document.image/多线程三种方式对比.png)  
+### 常见的成员方法  
