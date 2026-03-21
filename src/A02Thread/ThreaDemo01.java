@@ -25,5 +25,6 @@ public class ThreaDemo01 {
         //开启线程
         t1.start();
         t2.start();
+
     }
 }
