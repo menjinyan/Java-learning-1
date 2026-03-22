@@ -278,4 +278,9 @@ Stream 接口中静态方法 of 的细节
 ![img.png](document.image/同步方法.png)  
 ****  
 ##  Lock锁  
-![img.png](document.image/Lock锁.png)
+![img.png](document.image/Lock锁.png)  
+****
+##  生产者和消费者(消费者等待)  
+![img.png](document.image/生产者和消费者.png)  
+### 生产者和消费者(常见方法)  
+![img.png](生产者和消费者(常见方法)%20.png)
