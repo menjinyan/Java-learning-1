@@ -275,4 +275,7 @@ Stream 接口中静态方法 of 的细节
 ### 同步代码块  
 ![img.png](document.image/同步代码块.png)  
 ### 同步方法  
-![img.png](document.image/同步方法.png)
+![img.png](document.image/同步方法.png)  
+****  
+##  Lock锁  
+![img.png](document.image/Lock锁.png)
