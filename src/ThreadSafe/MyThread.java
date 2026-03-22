@@ -6,14 +6,18 @@ public class MyThread extends Thread {
     static int tick=0;
 
     //锁对象要是唯一的
-    static Object obj=new Object();
+    //static Object obj=new Object();
 
     @Override
     public void run() {
         while (true) {
 
             //同步代码块
-            synchronized (obj){
+            /**
+             * MyThread.class表示:
+             * 表示当前字节码文件对象
+             */
+            synchronized (MyThread.class) {
                 if(tick < 100) {
                     try {
                         Thread.sleep(20);
