@@ -283,4 +283,8 @@ Stream 接口中静态方法 of 的细节
 ##  生产者和消费者(消费者等待)  
 ![img.png](document.image/生产者和消费者.png)  
 ### 生产者和消费者(常见方法)  
-![img.png](生产者和消费者(常见方法)%20.png)
+![img.png](生产者和消费者(常见方法)%20.png)  
+### 等待唤醒机制(阻塞队列方式实现)  
+![img.png](document.image/等待唤醒机制(阻塞队列方式实现).png)  
+### 阻塞队列的继承结构  
+![img.png](document.image/阻塞队列的继承结构.png)
