@@ -273,4 +273,6 @@ Stream 接口中静态方法 of 的细节
 ### 线程的生命周期  
 ![img.png](document.image/线程的生命周期.png)  
 ### 同步代码块  
-![img.png](document.image/同步代码块.png)
+![img.png](document.image/同步代码块.png)  
+### 同步方法  
+![img.png](document.image/同步方法.png)
