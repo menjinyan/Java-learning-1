@@ -296,4 +296,8 @@ Stream 接口中静态方法 of 的细节
 ### 线程池代码的实现  
 ![img.png](document.image/线程池代码的实现.png)  
 ### 线程池的主要核心原理  
-![img.png](document.image/线程池的主要核心原理.png)
+![img.png](document.image/线程池的主要核心原理.png)  
+### 自定义线程池(任务拒绝策略)  
+![img.png](document.image/自定义线程池(任务拒绝策略).png)  
+### 自定义线程池  
+![img.png](document.image/自定义线程池.png)
