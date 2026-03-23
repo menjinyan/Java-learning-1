@@ -287,4 +287,6 @@ Stream 接口中静态方法 of 的细节
 ### 等待唤醒机制(阻塞队列方式实现)  
 ![img.png](document.image/等待唤醒机制(阻塞队列方式实现).png)  
 ### 阻塞队列的继承结构  
-![img.png](document.image/阻塞队列的继承结构.png)
+![img.png](document.image/阻塞队列的继承结构.png)  
+### 线程的状态  
+![img.png](document.image/线程的状态.png)
