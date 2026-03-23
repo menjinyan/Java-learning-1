@@ -1,7 +1,5 @@
 package 线程练习03;
 
-
-
 import java.util.ArrayList;
 import java.util.Collections;
 
