@@ -330,4 +330,5 @@ Stream 接口中静态方法 of 的细节
 ### 常见的CMD命令  
 ![img.png](document.image/常见的CMD命令.png)  
 ### IP总结  
-![img.png](document.image/IP总结.png)
+![img.png](document.image/IP总结.png)  
+### InetAddress的使用  
