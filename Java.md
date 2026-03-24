@@ -347,4 +347,6 @@ Stream 接口中静态方法 of 的细节
 ### UDP通信程序(发送数据)  
 ![img.png](document.image/UDP通信程序(发送数据).png)  
 ### UDP通信程序(接收数据)  
-![img.png](document.image/UDP通信程序(接收数据).png)
+![img.png](document.image/UDP通信程序(接收数据).png)  
+### UDP的三种通信方式  
+![img.png](document.image/UDP的三种通信方式.png)
