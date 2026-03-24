@@ -316,4 +316,10 @@ Stream 接口中静态方法 of 的细节
 ### 网络编程小结  
 ![img.png](document.image/网络编程小结.png)  
 ### 网络编程三要素总结  
-![img.png](document.image/网络编程三要素总结.png)
+![img.png](document.image/网络编程三要素总结.png)  
+### 三要素(IP)  
+![img.png](document.image/三要素(IP).png)  
+#### IPV4  
+![img.png](document.image/IPV4.png)  
+#### IPV6  
+![img.png](document.image/IPV6.png)
