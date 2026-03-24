@@ -322,4 +322,12 @@ Stream 接口中静态方法 of 的细节
 #### IPV4  
 ![img.png](document.image/IPV4.png)  
 #### IPV6  
-![img.png](document.image/IPV6.png)
+![img.png](document.image/IPV6.png)  
+#### IPV4的地址分类形式  
+![img.png](document.image/IPV4的地址分类形式.png)  
+### 特殊的IP地址  
+![img.png](document.image/特殊的IP地址.png)  
+### 常见的CMD命令  
+![img.png](document.image/常见的CMD命令.png)  
+### IP总结  
+![img.png](document.image/IP总结.png)
