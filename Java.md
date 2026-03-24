@@ -300,4 +300,6 @@ Stream 接口中静态方法 of 的细节
 ### 自定义线程池(任务拒绝策略)  
 ![img.png](document.image/自定义线程池(任务拒绝策略).png)  
 ### 自定义线程池  
-![img.png](document.image/自定义线程池.png)
+![img.png](document.image/自定义线程池.png)  
+### 自定义线程池小结  
+![img.png](document.image/自定义线程池小结.png)
