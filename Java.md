@@ -345,4 +345,6 @@ Stream 接口中静态方法 of 的细节
 * TCP协议是面向里连接的通信协议  
 * 速度慢，没有大小限制，数据安全  
 ### UDP通信程序(发送数据)  
-![img.png](document.image/UDP通信程序(发送数据).png)
+![img.png](document.image/UDP通信程序(发送数据).png)  
+### UDP通信程序(接收数据)  
+![img.png](document.image/UDP通信程序(接收数据).png)
