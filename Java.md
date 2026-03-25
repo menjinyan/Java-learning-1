@@ -362,4 +362,8 @@ Stream 接口中静态方法 of 的细节
 ## 反射  
 >反射允许对封装类的字段，方法和构造函数的信息进行编程访问  
 ### 获取class对象的三种方式  
-![img.png](document.image/获取class对象的三种方式.png)
+![img.png](document.image/获取class对象的三种方式.png)  
+### 什么是反射?  
+![img.png](document.image/什么是反射.png)  
+### 利用反射去获取构造方法  
+![img.png](document.image/利用反射去获取构造方法.png)
