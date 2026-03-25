@@ -357,4 +357,9 @@ Stream 接口中静态方法 of 的细节
 ### TCP通信程序(三次握手)  
 ![img.png](document.image/TCP通信程序(三次握手).png)  
 ### TCP通信程序(四次挥手)  
-![img_1.png](document.image/TCP通信程序(四次挥手).png)
+![img_1.png](document.image/TCP通信程序(四次挥手).png)  
+****  
+## 反射  
+>反射允许对封装类的字段，方法和构造函数的信息进行编程访问  
+### 获取class对象的三种方式  
+![img.png](document.image/获取class对象的三种方式.png)
