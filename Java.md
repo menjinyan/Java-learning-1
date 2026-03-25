@@ -355,4 +355,6 @@ Stream 接口中静态方法 of 的细节
 ### TCP程序如何书写代码  
 ![img.png](document.image/TCP程序如何书写代码.png)  
 ### TCP通信程序(三次握手)  
-![img.png](img.png)
+![img.png](document.image/TCP通信程序(三次握手).png)  
+### TCP通信程序(四次挥手)  
+![img_1.png](document.image/TCP通信程序(四次挥手).png)
